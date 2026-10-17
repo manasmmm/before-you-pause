@@ -1,0 +1,3 @@
+pytest>=8
+fastapi>=0.110   # only needed for api.py
+pydantic>=2
